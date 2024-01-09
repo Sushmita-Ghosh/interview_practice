@@ -3,11 +3,13 @@
 This repository contains interview questions for mongodb.
 
 <a name="TableOfContents"></a><h2>TABLE OF CONTENTS:</h2>
-| --------- | ---------------------------------------------------------------- |
-| 1 | [MONGODB AND ITS FEATURES](#MDB) |
-| 2 | [ALTERNATIVE NOSQL DATABASES TO MONGODB](#ALTERNATIVE) |
-| 3 | [WHAT TYPE OF NOSQL DATABASE IS MONGODB?](#TYPE) |
-| 4 | [HOW DOES MONGODB STORE DATA?](#STORE) |
+
+| Serial No | Topic Name                                             |
+| --------- | ------------------------------------------------------ |
+| 1         | [MONGODB AND ITS FEATURES](#MDB)                       |
+| 2         | [ALTERNATIVE NOSQL DATABASES TO MONGODB](#ALTERNATIVE) |
+| 3         | [WHAT TYPE OF NOSQL DATABASE IS MONGODB?](#TYPE)       |
+| 4         | [HOW DOES MONGODB STORE DATA?](#STORE)                 |
 
 ## <a name="MDB"></a><h2>MONGODB AND ITS FEATURES</h2>
 
@@ -43,26 +45,26 @@ MongoDb is a NOSQL( Not Only SQL) database that stores large volumes of data of 
 
 - KEY VALUE:
 
-* store values as an index-key and value pairs
-* schemaless way
-* Cassandra, DynamoDB
+  - store values as an index-key and value pairs
+  - schemaless way
+  - Cassandra, DynamoDB
 
 - COLUMN BASED:
 
-* stores data in a column format rather than row format.
-* row format is used in traditional databases.
-* HBASE, CASSANDRA
+  - stores data in a column format rather than row format.
+  - row format is used in traditional databases.
+  - HBASE, CASSANDRA
 
 - DOCUMENT BASED:
 
-* designed to store data in form of documents ; with each document having a unique key
-* Couchbase, MongoDB
+  - designed to store data in form of documents ; with each document having a unique key
+  - Couchbase, MongoDB
 
 - GRAPH BASED:
 
-* designed for data that needs to be represented as graphs.
-* interconnected data in form of graphs and trees
-* Neo4j and BigData
+  - designed for data that needs to be represented as graphs.
+  - interconnected data in form of graphs and trees
+  - Neo4j and BigData
 
 <br>
 

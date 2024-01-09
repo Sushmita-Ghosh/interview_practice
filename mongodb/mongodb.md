@@ -393,6 +393,9 @@ We should consider embedded documents(subdocuments) for:
 
 ## <a name="update"></a><h2>31. DIFFERENCE BETWEEN `update` AND `FindOneAndUpdate` </h2>
 
+![image](https://github.com/Sushmita-Ghosh/interview_practice/assets/82622059/d3464961-615d-41c6-9681-d23c1661fe04)
+
+
 - update - more than one documents matching the condition
 - findOneAndUpdate - only one document - if not matched origin document is returned
 

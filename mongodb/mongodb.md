@@ -6,12 +6,12 @@ This repository contains interview questions for mongodb.
 
 | Serial No | Topic Name                                             |
 | --------- | ------------------------------------------------------ |
-| 1         | [MONGODB AND ITS FEATURES](#MDB)                       |
-| 2         | [ALTERNATIVE NOSQL DATABASES TO MONGODB](#ALTERNATIVE) |
-| 3         | [WHAT TYPE OF NOSQL DATABASE IS MONGODB?](#TYPE)       |
-| 4         | [HOW DOES MONGODB STORE DATA?](#STORE)                 |
+| 1         | [MONGODB AND ITS FEATURES](#mdb)                       |
+| 2         | [ALTERNATIVE NOSQL DATABASES TO MONGODB](#alternative) |
+| 3         | [WHAT TYPE OF NOSQL DATABASE IS MONGODB?](#type)       |
+| 4         | [HOW DOES MONGODB STORE DATA?](#store)                 |
 
-## <a name="MDB"></a><h2>MONGODB AND ITS FEATURES</h2>
+## <a name="mdb"></a><h2>MONGODB AND ITS FEATURES</h2>
 
 MongoDb is a NOSQL( Not Only SQL) database that stores large volumes of data of documents. This offers developers the flexibility to work with eveolving data models.
 
@@ -23,11 +23,11 @@ MongoDb is a NOSQL( Not Only SQL) database that stores large volumes of data of 
 
 <br>
 
-## [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
 
 ---
 
-## <a name="ALTERNATIVE"></a><h2>ALTERNATIVE NOSQL DATABASES TO MONGODB</h2>
+## <a name="alternative"></a><h2>ALTERNATIVE NOSQL DATABASES TO MONGODB</h2>
 
 - Apache Cassandra
 - Redis
@@ -37,11 +37,11 @@ MongoDb is a NOSQL( Not Only SQL) database that stores large volumes of data of 
 
 <br>
 
-## [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
 
 ---
 
-## <a name="TYPE"></a><h2>WHAT TYPE OF NOSQL DATABASE IS MONGODB?</h2>
+## <a name="type"></a><h2>WHAT TYPE OF NOSQL DATABASE IS MONGODB?</h2>
 
 - KEY VALUE:
 
@@ -68,11 +68,11 @@ MongoDb is a NOSQL( Not Only SQL) database that stores large volumes of data of 
 
 <br>
 
-## [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
 
 ---
 
-## <a name="STORE"></a><h2>HOW DOES MONGODB STORE DATA?</h2>
+## <a name="store"></a><h2>HOW DOES MONGODB STORE DATA?</h2>
 
 - MongoDB stores data records as documents(specifically BSON/JSON documents) which are gathered together as colletion.
 - Documents contain one or more fields and each field contains a valid data type.
@@ -81,6 +81,6 @@ MongoDb is a NOSQL( Not Only SQL) database that stores large volumes of data of 
 
 <br>
 
-## [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
 
 ---

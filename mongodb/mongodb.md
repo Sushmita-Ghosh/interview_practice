@@ -36,6 +36,7 @@ This repository contains interview questions for mongodb.
 | 28        | [DIFFERENT DATA MODELS IN MONGODB](#datamodels)                                                                                  |
 | 29        | [DIFFERENT DATA MODELS IN MONGODB](#datamodels)                                                                                  |
 | 30        | [DIFFERENT DATA MODELS IN MONGODB](#datamodels)                                                                                  |
+| 31        | [ DIFFERENCE BETWEEN `update` AND `FindOneAndUpdate` ](#update)                                                                  |
 
 ## <a name="mdb"></a><h2>1. MONGODB AND ITS FEATURES</h2>
 
@@ -215,7 +216,6 @@ Indexes provide users with an efficient way of quering data.
 We should consider embedded documents(subdocuments) for:
 ![image](https://github.com/Sushmita-Ghosh/interview_practice/assets/82622059/981b4105-a25a-44d1-a43d-b5d126150bee)
 
-
 [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
 
 ---
@@ -387,5 +387,14 @@ We should consider embedded documents(subdocuments) for:
 We should consider embedded documents(subdocuments) for:
 
 [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="update"></a><h2>31. DIFFERENCE BETWEEN `update` AND `FindOneAndUpdate` </h2>
+
+- update - more than one documents matching the condition
+- findOneAndUpdate - only one document - if not matched origin document is returned
+
+[YT](https://www.youtube.com/watch?v=fxUCxEQY7sM&list=PLp50dWW_m40X_GTW0CXYlkojMT74i2O1i&index=1)
 
 ---

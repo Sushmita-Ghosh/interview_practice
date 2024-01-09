@@ -37,6 +37,7 @@ This repository contains interview questions for mongodb.
 | 29        | [DIFFERENT DATA MODELS IN MONGODB](#datamodels)                                                                                  |
 | 30        | [DIFFERENT DATA MODELS IN MONGODB](#datamodels)                                                                                  |
 | 31        | [ DIFFERENCE BETWEEN `update` AND `FindOneAndUpdate` ](#update)                                                                  |
+| 32        | [DIFFERENCE BETWEEN `drop` AND `remove`](#drop)                                                                                  |
 
 ## <a name="mdb"></a><h2>1. MONGODB AND ITS FEATURES</h2>
 

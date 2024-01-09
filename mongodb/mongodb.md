@@ -217,3 +217,173 @@ We should consider embedded documents(subdocuments) for:
 [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
 
 ---
+
+## <a name="replica"></a><h2>11. WHAT ARE REPLICA SETS? EXPLAIN PRIMARY AND SECONDARY REPLICA SETS?</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="capped"></a><h2>12.USE OF CAPPED COLLECTION</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="large"></a><h2>13.HOW CAN YOU STORE IMAGES,VIDEOS & OTHER LARGE FILES(> 16mb?</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="aggregation"></a><h2>14.AGGREGATION IN MONGODB</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="id"></a><h2>15.\_id FIELD IN MONGODB?</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="mapreduce"></a><h2>16.MAP REDUCE PROCESS IN MONGODB</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="backup"></a><h2>17.WHAT ARE SOME UTILITIES FOR BACKUP AND RESTORING IN MONGODB</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="availability"></a><h2>18. HOW DOES MONGODB ENSURE HIGH AVAILABILITY OF DATA?</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="profiler"></a><h2>19. ROLE OF PROFILER IN MONGODB</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="regex"></a><h2>20. CAN WE USE REGULAR EXPRESSIONS IN MONGODB?</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="diff"></a><h2>21. DIFFERENCE BETWEEN $all AND $in OPERATOR</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="slaves"></a><h2>22. BOTH WRITES AND READS BECOME FASTER WHEN YOU ADD MORE SLAVES TO REPLICA SET. IS THIS STATEMENT TRUE OR FALSE? EXPLAIN</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="equi"></a><h2>23. MONGODB EQUIVALENT OF JOIN CLAUSE & ITS LIMITATIONS</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="adv"></a><h2>24. ADVANTAGES OF MONGODB</h2>
+
+MongoDB stands out due to its:
+
+- Open-source nature
+- User-friendly syntax
+- High flexibility for diverse data types
+- Advanced security features
+- Efficient indexing for rapid data retrieval
+- Dynamic schema design adaptable to evolving data requirements
+
+---
+
+## <a name="application"></a><h2>25. APPLICATIONS OF MONGODB</h2>
+
+MongoDB's versatility finds applications in:
+
+- IoT data storage
+- Mobile applications for real-time analysis
+- Catalog, content, and product management
+- Large-scale databases like India's Aadhar card system
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="capped"></a><h2>26. USE OF CAPPED COLLECTION</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="capped"></a><h2>27. USE OF CAPPED COLLECTION</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="capped"></a><h2>28. USE OF CAPPED COLLECTION</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="capped"></a><h2>29. USE OF CAPPED COLLECTION</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="capped"></a><h2>30. USE OF CAPPED COLLECTION</h2>
+
+We should consider embedded documents(subdocuments) for:
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---

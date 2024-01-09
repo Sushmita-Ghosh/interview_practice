@@ -4,12 +4,14 @@ This repository contains interview questions for mongodb.
 
 <a name="TableOfContents"></a><h2>TABLE OF CONTENTS:</h2>
 
-| Serial No | Topic Name                                             |
-| --------- | ------------------------------------------------------ |
-| 1         | [MONGODB AND ITS FEATURES](#mdb)                       |
-| 2         | [ALTERNATIVE NOSQL DATABASES TO MONGODB](#alternative) |
-| 3         | [WHAT TYPE OF NOSQL DATABASE IS MONGODB?](#type)       |
-| 4         | [HOW DOES MONGODB STORE DATA?](#store)                 |
+| Serial No | Topic Name                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------- |
+| 1         | [MONGODB AND ITS FEATURES](#mdb)                                                            |
+| 2         | [ALTERNATIVE NOSQL DATABASES TO MONGODB](#alternative)                                      |
+| 3         | [WHAT TYPE OF NOSQL DATABASE IS MONGODB?](#type)                                            |
+| 4         | [HOW DOES MONGODB STORE DATA?](#store)                                                      |
+| 5         | [MONGODB IS A SCHEMALESS DATABASE. IF YES < HOW DO WE CREATE SCHEMAS IN MONGODB?](#schemas) |
+| 6         | [HOW IS MONGODB DIFFERENT FROM SQL AND BETTER THAN MYSQL?](#sql)                            |
 
 ## <a name="mdb"></a><h2>MONGODB AND ITS FEATURES</h2>
 
@@ -78,6 +80,28 @@ MongoDb is a NOSQL( Not Only SQL) database that stores large volumes of data of 
 - Documents contain one or more fields and each field contains a valid data type.
 - A group of documents is called collection.
 - DOCUMENTS -> ROWS, COLLECTION -> TABLES, FIELDS -> COLUMNS
+
+<br>
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="schemas"></a><h2>MONGODB IS A SCHEMALESS DATABASE. IF YES < HOW DO WE CREATE SCHEMAS IN MONGODB?</h2>
+
+- The schema of a database describes the structure of the data to be stored.
+- In relational databases, schema defined by the tables, fields and relationship between them. EG SQL
+- In documented oreiented databases like mongodb , data is stored in key value pairs, given that MongoDB is schema free - which means it has dynamically typed data.
+- Whenever we create a document to create a schema, it will automatically generate for us.
+- Whenever the document is added the database automatically creates the collectiom
+
+<br>
+
+[YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
+
+---
+
+## <a name="sql"></a><h2>HOW IS MONGODB DIFFERENT FROM SQL AND BETTER THAN MYSQL?</h2>
 
 <br>
 

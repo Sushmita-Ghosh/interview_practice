@@ -395,9 +395,18 @@ We should consider embedded documents(subdocuments) for:
 
 ![image](https://github.com/Sushmita-Ghosh/interview_practice/assets/82622059/d3464961-615d-41c6-9681-d23c1661fe04)
 
-
 - update - more than one documents matching the condition
 - findOneAndUpdate - only one document - if not matched origin document is returned
+
+[YT](https://www.youtube.com/watch?v=fxUCxEQY7sM&list=PLp50dWW_m40X_GTW0CXYlkojMT74i2O1i&index=1)
+
+---
+
+## <a name="drop"></a><h2>31. DIFFERENCE BETWEEN `drop` AND `remove` </h2>
+
+## Different ways to remove?
+
+- findById and then remove.
 
 [YT](https://www.youtube.com/watch?v=fxUCxEQY7sM&list=PLp50dWW_m40X_GTW0CXYlkojMT74i2O1i&index=1)
 

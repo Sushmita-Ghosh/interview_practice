@@ -213,6 +213,8 @@ Indexes provide users with an efficient way of quering data.
 ## <a name="embed"></a><h2>26. WHEN SHOULD WE EMBED ONE DOCUMENT WITH ANOTHER?</h2>
 
 We should consider embedded documents(subdocuments) for:
+![image](https://github.com/Sushmita-Ghosh/interview_practice/assets/82622059/981b4105-a25a-44d1-a43d-b5d126150bee)
+
 
 [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
 

@@ -404,7 +404,10 @@ We should consider embedded documents(subdocuments) for:
 
 ## <a name="drop"></a><h2>31. DIFFERENCE BETWEEN `drop` AND `remove` </h2>
 
-## Different ways to remove?
+![image](https://github.com/Sushmita-Ghosh/interview_practice/assets/82622059/bf8b043f-d4ff-4fa7-941a-bbb2fe31588a)
+
+### Different ways to remove?
+
 
 - findById and then remove.
 

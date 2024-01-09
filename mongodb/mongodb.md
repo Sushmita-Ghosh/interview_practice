@@ -103,6 +103,8 @@ MongoDb is a NOSQL( Not Only SQL) database that stores large volumes of data of 
 
 ## <a name="sql"></a><h2>HOW IS MONGODB DIFFERENT FROM SQL AND BETTER THAN MYSQL?</h2>
 
+![image](https://github.com/Sushmita-Ghosh/interview_practice/assets/82622059/343ffeb2-5c7f-48bc-8cb7-bfe243fc8d97)
+
 <br>
 
 [YT](https://www.youtube.com/watch?v=EKEpVhi-29Q)
